@@ -2,11 +2,14 @@
 
 ## Problem Statement
 An e-commerce retail store has been struggling with customer attrition. 
-They need an analytics solution that can track and find solution for customer retention strategy, including
+They need an analytics solution that can track and find solutions for customer retention strategy, including
 
 - Indicate the rate of attrition of customers
 - Analyze the retail market to identify new customer segments to target.
 - Project rate of growth for focus customer segment
+
+## Analysis
+In this study, an Exploratory Data Analysis (EDA) was performed on an e-commerce retail dataset with over 541 thousand records. Based on the findings, some solutions to the problem are proposed.
 
 ## Introduction
 Customer churn is a major problem and one of the most important concerns for large companies. It can result in
